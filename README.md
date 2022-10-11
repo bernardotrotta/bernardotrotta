@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bernardotrotta
 - 👀 I’m interested in UX/UI Design
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer Engineering at University of Parma
 
 <!---
 bernardotrotta/bernardotrotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
